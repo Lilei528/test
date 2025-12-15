@@ -1,6 +1,6 @@
 class use1 {
 	public void main() { 
-		
-	}阿斯蒂芬撒地方
+		user2 toen
+	} 阿斯蒂芬撒地方
 
 }
